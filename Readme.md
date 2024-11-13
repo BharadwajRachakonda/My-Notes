@@ -16,6 +16,6 @@ If you have a repository in your GitHub and want to bring it to your local syste
 
 `git add .`
 
-`git commit - 'initial commit'`
+`git commit -m 'initial commit'`
 
 `git push origin main`
