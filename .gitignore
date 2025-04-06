@@ -1,1 +1,4 @@
 ADS\*.exe
+ADS\*.ilk
+ADS\*.pdb
+ADS\*.obj
